@@ -1,2 +1,2 @@
 # Portfolio-task
-This is a portfolio website created for my club requirment task.
+This is my portfolio website.
